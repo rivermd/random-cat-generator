@@ -1,0 +1,37 @@
+body {
+    background: #c0d1b4;
+
+}
+
+.header-content{
+    text-align: center;
+}
+
+.btn {
+    background: transparent;
+    border: none;
+    border-radius: 8px;
+    background-color: #c9694f;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* js */
+.cats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.random_cats {
+    width: 40%;
+}
+
+img {
+    max-width: 700px;  
+    height: 30 rem;
+    padding-top: 30px;
+    padding-left: 350px;
+}
